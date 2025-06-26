@@ -27,7 +27,8 @@ $ apt install vagrant
 ```
 ```sh
 $ sudo apt update
-``````sh
+```
+```sh
 $ sudo apt install virtualbox
 ```
 <!---
